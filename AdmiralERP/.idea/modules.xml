@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AdmiralERP.iml" filepath="$PROJECT_DIR$/AdmiralERP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/org.admiral.base/org.admiral.base.iml" filepath="$PROJECT_DIR$/org.admiral.base/org.admiral.base.iml" />
+    </modules>
+  </component>
+</project>
