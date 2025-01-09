@@ -1,4 +1,4 @@
-package org.admiral.uitl;
+package org.admiral.util;
 
 import java.lang.reflect.AccessibleObject;
 import java.lang.reflect.Array;

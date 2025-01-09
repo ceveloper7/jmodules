@@ -1,3 +1,3 @@
 module org.admiral.util {
-    exports org.admiral.uitl;
+    exports org.admiral.util;
 }
