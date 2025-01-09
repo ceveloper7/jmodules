@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/AdmiralERP.iml" filepath="$PROJECT_DIR$/AdmiralERP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.admiral.greetsvc/com.admiral.greetsvc.iml" filepath="$PROJECT_DIR$/com.admiral.greetsvc/com.admiral.greetsvc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.admiral.usesvcservice/com.admiral.usesvcservice.iml" filepath="$PROJECT_DIR$/com.admiral.usesvcservice/com.admiral.usesvcservice.iml" />
       <module fileurl="file://$PROJECT_DIR$/org.adempiere.automodule/org.adempiere.automodule.iml" filepath="$PROJECT_DIR$/org.adempiere.automodule/org.adempiere.automodule.iml" />
       <module fileurl="file://$PROJECT_DIR$/org.admiral.base/org.admiral.base.iml" filepath="$PROJECT_DIR$/org.admiral.base/org.admiral.base.iml" />
       <module fileurl="file://$PROJECT_DIR$/org.admiral.greet/org.admiral.greet.iml" filepath="$PROJECT_DIR$/org.admiral.greet/org.admiral.greet.iml" />
